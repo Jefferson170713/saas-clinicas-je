@@ -1,3 +1,4 @@
+// @ts-ignore: CSS module declaration may be missing in the project typings
 import "./globals.css";
 
 import type { Metadata } from "next";
